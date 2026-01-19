@@ -53,11 +53,17 @@ Ejercicio 2: RS asíncrono (sin reloj)
   "signal": [
 
 { "name": "Set", "wave": "l.h.l.h.lhlhl..hl" },
+    
     { "name": "Reset", "wave": "hl.h.lhl.h...l..h" },
+    
     { "name": "", "wave": "" },
+    
     { "name": "Q", "wave": "0.1.0.1..X..1...." },
+    
     { "name": "-Q", "wave": "1.0.1.0..X..0...." }
+ 
   ]
+
 }
 
 
