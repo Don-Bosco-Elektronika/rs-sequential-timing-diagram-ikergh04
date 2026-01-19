@@ -47,17 +47,19 @@ Circuito B
 ---
 
 ## 🔲Kronogramaren Kodea
-Circuito A
+Ejercicio 2: RS asíncrono (sin reloj)
 
-*(Añade aquí el código del WaveDrom)*
+{
+  "signal": [
 
-Circuito B
+{ "name": "Set", "wave": "l.h.l.h.lhlhl..hl" },
+    { "name": "Reset", "wave": "hl.h.lhl.h...l..h" },
+    { "name": "", "wave": "" },
+    { "name": "Q", "wave": "0.1.0.1..X..1...." },
+    { "name": "-Q", "wave": "1.0.1.0..X..0...." }
+  ]
+}
 
-*(Añade aquí el código del WaveDrom)*
-
-... AÑADE LO MÁS CIRCUITOS
-
----
 
 
 ## 📤Igo
