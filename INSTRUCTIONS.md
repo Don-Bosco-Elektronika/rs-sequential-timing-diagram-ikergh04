@@ -11,7 +11,7 @@
 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
-| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                |
+| Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                RS |  
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
 | ? | ?             | ? | ? |  
 
