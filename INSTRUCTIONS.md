@@ -13,7 +13,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                           |  
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| RS| ?             | ? | ? |  
 
 
 ## Tabla de la verdad
