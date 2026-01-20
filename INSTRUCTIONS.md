@@ -50,21 +50,102 @@ Circuito B
 Ejercicio 2: RS asíncrono (sin reloj)
 
 {
+ 
   "signal": [
-
-{ "name": "Set", "wave": "l.h.l.h.lhlhl..hl" },
+    
+    { "name": "Set", "wave": "l.h.l.h.lhlhl..hl" },
     
     { "name": "Reset", "wave": "hl.h.lhl.h...l..h" },
-    
+   
     { "name": "", "wave": "" },
     
     { "name": "Q", "wave": "0.1.0.1..X..1...." },
     
-    { "name": "-Q", "wave": "1.0.1.0..X..0...." }
- 
+   { "name": "-Q", "wave": "1.0.1.0..X..0...." }
+  
   ]
 
 }
+
+Ejercicio 2: RS síncrono flanco ascendente
+
+
+{signal: [
+  
+  {name: 'clk',   wave: 'P................'},
+ 
+  {name: 'Set',   wave: '1...0..1.0..1..01'},
+ 
+  {name: 'Reset', wave: '0101..0..1.0..1.0'},
+  
+  {},
+  
+  {name: 'Q',     wave: '1.x1x0.x1.0.x1.x0'},
+  
+  {name: '-Q',    wave: '0.x0x1.x0.1.x0.x1'},
+
+]}
+
+Ejercicio 2: RS flanco descendente
+
+
+signal: [
+
+  {name: 'clk', wave: 'N................'},
+ 
+  {name: 'Set', wave: '1...0..1.0..10.1.'},
+ 
+  {name: 'Reset', wave: '0101..0..1.01.010'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.x1x0.x1.0..x0x.'},
+ 
+  {name: '-Q', wave: '0.x0x1.x0.1..x1x.'},
+
+]}
+
+
+Ejercicio 2: RS nivel alto
+
+{signal: [
+
+  {name: 'clk', period:2, wave: 'p................'},
+ 
+  {name: 'Set', wave: '1...0..1.0..10.1.'},
+  
+  {name: 'Reset', wave: '0101..0..1.01.010'},
+ 
+  {},
+  
+  {name: 'Q', wave: '1...0...1.0.1.0.1'},
+  
+  {name: '-Q', wave: '0...1...0.1.0.1.0'},
+
+]}
+
+Ejercicio 2: RS nivel bajo
+
+{signal: [
+
+  {name: 'clk', wave: 'n................'},
+  
+  {name: 'Set', wave: 'h...l..h.l..hl.h.'},
+  
+  {name: 'Reset', wave: 'lhlh..l..h.lh.lhl'},
+  
+  {},
+  
+  {name: 'Q', wave: '1.......0....1...0......1.0...1...'},
+ 
+  {name: '-Q', wave: '0.......1....0...1......0.1...0...'},
+
+]}
+
+
+
+
+
 
 
 
