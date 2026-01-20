@@ -13,7 +13,8 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                           |  
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| RS| 4044            | ? | ? |  
+| RS| 4044            | <img width="204" height="154" alt="Captura de pantalla 2026-01-20 122456" src="https://github.com/user-attachments/assets/2b010a3f-4688-4b47-a592-57fadb13522c" />   | ? | 
+
 
 
 ## Tabla de la verdad
@@ -29,7 +30,9 @@
 
 ## 🔲Simulatzeko Zirkuituak
 
-*(Añade aquí la captura de proteus)*
+<img width="937" height="464" alt="Captura de pantalla 2026-01-20 122216" src="https://github.com/user-attachments/assets/2e362401-0945-4042-a1c1-e0b090baa862" />
+
+
 
 ---
 
