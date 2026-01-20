@@ -13,7 +13,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                           |  
 |---------------------------|------------------|------------------|---------------------------------------------------------------------------------|
-| RS| 4044            | <img width="204" height="154" alt="Captura de pantalla 2026-01-20 122456" src="https://github.com/user-attachments/assets/2b010a3f-4688-4b47-a592-57fadb13522c" />   | ? | 
+| RS| 4044            | <img width="204" height="154" alt="Captura de pantalla 2026-01-20 122456" src="https://github.com/user-attachments/assets/2b010a3f-4688-4b47-a592-57fadb13522c" />   | ?| 
 
 
 
