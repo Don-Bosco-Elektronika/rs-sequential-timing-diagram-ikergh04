@@ -34,15 +34,8 @@
 ---
 
 ## 🔲Kronogramaren Emaitza
-Circuito A
+<img width="616" height="135" alt="Captura de pantalla 2026-01-20 094958" src="https://github.com/user-attachments/assets/21834841-d2dd-480d-afa4-0a3f4df37966" />
 
-*(Añade aquí la captura del WaveDrom)*
-
-Circuito B
-
-*(Añade aquí la captura del WaveDrom)*
-
-... AÑADE LO MÁS CIRCUITOS
 
 ---
 
