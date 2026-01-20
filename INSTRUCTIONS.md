@@ -35,6 +35,11 @@
 
 ## 🔲Kronogramaren Emaitza
 <img width="616" height="135" alt="Captura de pantalla 2026-01-20 094958" src="https://github.com/user-attachments/assets/21834841-d2dd-480d-afa4-0a3f4df37966" />
+<img width="800" height="203" alt="Captura de pantalla 2026-01-19 132421" src="https://github.com/user-attachments/assets/afb11db0-9aa3-4354-824a-8ab17de4915b" />
+<img width="755" height="198" alt="Captura de pantalla 2026-01-19 132916" src="https://github.com/user-attachments/assets/2af41a39-def8-4461-8cd1-d75b7a9183e9" />
+<img width="1363" height="221" alt="Captura de pantalla 2026-01-20 093926" src="https://github.com/user-attachments/assets/53eff665-50a7-4cce-aaae-50cac62cce5a" />
+<img width="1352" height="240" alt="Captura de pantalla 2026-01-20 093904" src="https://github.com/user-attachments/assets/bf86a588-b5c8-4a9a-b5c3-9583916639ac" />
+
 
 
 ---
